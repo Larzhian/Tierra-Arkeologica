@@ -1,0 +1,50 @@
+{
+   "WBUI2":{
+      "settings":{
+         "OpenButton":2,
+         "HideIcon":true,
+         "HideIconAfter":40,
+         "IconURL":"https://i.imgur.com/EbzBDwH.png",
+         "DisableIconText":false,
+         "IconPosition":0,
+         "IconTextColor":0,
+         "OpenOnStart":false,
+         "OpenOnStartOnlyNewPlayers":true,
+         "UpdateInterval":12
+      },
+      "tabs":[
+         {
+            "tab1":{
+               "layout":1,
+               "buttontext":"BIENVENIDOS",
+               "title1":"Gracias por elegirnos!",
+               "text1":"Tierra ARKeologica es un servidor PVE sin fines de lucro cuyo principal objetivo es la diversion.\nEsperamos la pasen bien en el Server!\n\n\nDentro de este menu, que puede ser abierto con la tecla F3, podras encontrar mucha informacion.\n\nDesde las Reglas internas del servidor, como tambien los rates que manejamos para poder configurar sus apps de tameo\n. En la actualidad estamos construyendo el Discord del servidor, les pedimos paciencia con esto.\n\nActualmente pueden ingresar pero aun se encuentra en estado de Desarrollo!\n\n\n¡Disfruten del servidor y diviértanse explorando el mundo de ARK!.",
+               "imageurl":"https://i.imgur.com/DrXvXMU.png"
+            }
+         },
+         {
+            "tab2":{
+               "layout":2,
+               "buttontext":"REGLAS",
+               "title1":"Relas Internas del Servidor:",
+               "text1":"El incumplimiento de nuestro Reglamento puede resultar en la eliminacion de sus estructuras, criaturas, elementos, quita de puntos o el BAN\ntemporal o Permanente de un miembro o tribu. La Administracion se reserva el derecho de banear inmediatamente las cuentas de los jugadores\nsegun lo considere oportuno(los admins tenemos vida privada). Las medidas tomadas quedan a la sola y absoluta interpretacion y desicion de\nlos miembros del Staff\n\nEsta lista no es exhaustiva, pero representa pautas claras que los jugadores deben seguir cuando juegan en nuestra comunidad. Para algo de lo\nque no este seguro, utilice su mejor criterio e ingenio. En caso de duda, comuniquese con nosotros con el uso del canal de reportes.\nAsegurate de actuar con respeto, educacion, etica al referirse o invocar a los administradores para el uso de reportes o dudas sobre las\nsiguientes normas:\nReglas de Construccion\n\n\\Se permite construir en Ratholes y otros lugares, pero NO esta permitido construir en Cuevas de Artefactos.\n\n\nAcoso Específico en PvE:\n\nNo se permite bloquear a otras tribus para que jueguen en el servidor PvE. Esto incluye, pero no se limita a:\n\n 1. Construir en su base.\n 2. Bloquear los dinosaurios de otras tribus.\n 3. Bloquear el acceso dentro o fuera de la base de una tribu.\n 4. Obstruir caminos o vías fluviales con el proposito de negar el acceso a otra tribu.\n 5. Bloquear el acceso a recursos importantes (por ejemplo, nodos de carga, terminales de la Ciudad de Extincion, cajas de suministros\n orbitales en Extincion, teleportadores, terminales de mision, etc.).\n 6. Llenar intencionalmente el límite de tames del servidor mediante spam de tames (como Dodos, Jerboas o dinosaurios faciles de domar y\n mantener) y/o balsas.\n 7. Dejar tames dentro de cuevas de artefactos o en plataformas de teletransportación de obeliscos.\n 8. Uso intencional de criaturas salvajes para destruir la base de un jugador.",
+               "title2":"Mas Reglas internas:",
+               "text2":"Prohibido el Uso de Trampas y Exploits:\n\nNo se tolera explotar la mecánica del juego para obtener una ventaja injusta sobre otros jugadores. Esto incluye, pero no se limita a:\n\n1. Atacar desde, viajar o construir en zonas undermap.\n2. Dupear dinos, artículos o personajes.\n3. Utilizar mecánicas de construcción no deseadas, como estructuras flotantes o utilizar la barrera del mundo como punto de ajuste.\n4. Bloquear usuarios o servidores intencionalmente, ya sea a través de DDoS u otras formas de obstrucción maliciosa.\n5. Colocar estructuras que se extiendan más allá de los límites normales de construcción en monturas de plataforma o balsas con fines de \nobstruir el juego de otros.\nEl uso de programas de terceros como Aimbot, ESP (Extra Sensory Perception) o cualquier otro que proporcione ventajas injustas está\nterminantemente prohibido.\n\n\\Prohibición de Nombres de Jugadores Inapropiados\nLos nombres de jugadores no pueden ser vulgares, difamatorios, obscenos, odiosos, racistas, étnicos o de otro modo ofensivos. Tampoco se \npermite el uso de ortografía o tipografía alternativa para eludir estas restricciones.\n\nIGNORANTIA JURIS NON EXCUSAT:\n\nEl  que desconoce una ley no puede escapar de la responsabilidad por violar esa ley simplemente por desconocer su contenido.",
+               "imageurl":"https://i.imgur.com/DrXvXMU.png"
+            }
+         }
+      ],
+      "links":[
+         {
+            "link1":{
+               "text":"DISCORD",
+               "url":"https://discord.gg/Gj8KzcZH"
+            }
+         }
+      ]
+   }
+}
+
+
+
+5buT6XWx
